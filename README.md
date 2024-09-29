@@ -20,7 +20,7 @@ else:
     print("El menor es:", menor)  # impresión para la variable menor
     <img width="601" alt="image" src="https://github.com/user-attachments/assets/5094b9ed-fab7-4030-baab-2da5631e40b5">
     <img width="595" alt="image" src="https://github.com/user-attachments/assets/a461a52a-0f00-4b85-854d-f01dc166a7a2">
-    <img width="334" alt="image" src="https://github.com/user-attachments/assets/5fffc08e-8125-4cf8-bc3e-3a37640c9bd4">
+    <img width="334" alt="image" src="https://github.com/user-attachments/assets/5fffc08e-8125-4cf8-bc3e-3a37640c9bd4"> 
 
 
 
